@@ -9,7 +9,7 @@ def STAR_DELTA(R1, R2, R3):
     return R12, R23, R31
 
 # Streamlit app setup
-st.title("02341A0259-PS2")  # Title of the app (adjust for your Roll No. and Problem Statement No.)
+st.title("02305A21L45-PS4")  # Title of the app (adjust for your Roll No. and Problem Statement No.)
 
 # Input fields for the resistances in Star connection
 R1 = st.number_input("Enter R1 (in ohms):", min_value=0.0)
